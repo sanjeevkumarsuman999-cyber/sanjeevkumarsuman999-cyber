@@ -1,15 +1,15 @@
 Hi, I'm Sanjeev Kumar Suman 👋
 
-I'm a student developer building practical technology projects focused on transparency, public impact, and useful digital solutions.
-
-🚀 What I'm Building
-
-- JanVerify — a citizen-focused project exploring technology for greater transparency in public distribution systems.
-- Future Projects — continuing to learn, build, and experiment with practical digital products.
+I'm a student developer at JanKanti Technologies, learning and building practical technology projects focused on transparency, public impact, and useful digital solutions.
 
 🏢 JanKanti Technologies
 
 Building useful and responsible technology projects with a focus on real-world problems and public impact.
+
+🚀 Projects
+
+- JanVerify — a citizen-focused project exploring technology for greater transparency in public distribution systems.
+- More projects coming as I learn, build, and grow.
 
 💻 Interests
 
